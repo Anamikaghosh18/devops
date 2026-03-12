@@ -1,6 +1,6 @@
 # Production Workflow & Deployment Architecture
 
-This document explains the **production workflow**, **branching strategy**, **containerization process**, and **deployment architecture** used in this project.
+This document explains the **production workflow**, **branching strategy**, **containerization process**, and **deployment architecture** used in the project.
 
 ---
 
